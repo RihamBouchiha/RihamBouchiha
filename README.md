@@ -93,6 +93,7 @@ I have foundational knowledge in **information security** and **computer network
 
 ## 📄 My Resume
 📥 [**Download My CV**](https://drive.google.com/file/d/1D95T8y5PVojMzoN5YvBuuWYq3SwkdWjc/view?usp=sharing)  
+[**My portfolio**](https://rihambouchiha.vercel.app/).
 
 ---
 
