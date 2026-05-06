@@ -10,113 +10,16 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/──────────────%20🖥️%20Langages%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20⚙️%20Frameworks%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20🗄️%20Databases%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20🚀%20DevOps%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20🤖%20IA%20/%20ML%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20📨%20Messagerie%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20🌐%20Réseaux%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/TCP/IP-0A74DA?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/IPv4%2FIPv6-0A74DA?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/OSI-0A74DA?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/DHCP-0A74DA?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/DNS-0A74DA?style=flat-square&logo=cisco&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/──────────────%20🧰%20Outils%20──────────────-1a1a2e?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/UML-5B4FDF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Merise-00A6D6?style=flat-square&logoColor=white"/>
-
-</div>
+| 🏷️ Catégorie | 🚀 Technologies |
+|:---:|:---|
+| 🖥️ **Langages** | C · C++ · C# · Java · Python · JavaScript · TypeScript · PHP · Dart |
+| ⚙️ **Frameworks** | Spring Boot · .NET · Next.js · React.js · Node.js · Express.js · React Native · Flutter · FastAPI |
+| 🗄️ **Databases** | MySQL · PostgreSQL · MariaDB · Oracle SQL · SQLite · SQL Server · MongoDB · Firebase |
+| 🚀 **DevOps** | Docker · Kubernetes · Jenkins · Nginx · Linux |
+| 🤖 **IA / ML** | Machine Learning · Deep Learning · Reinforcement Learning · NumPy · Pandas · Matplotlib |
+| 📨 **Messagerie** | Kafka · RabbitMQ |
+| 🌐 **Réseaux** | TCP/IP · IPv4/IPv6 · OSI · DHCP · DNS |
+| 🧰 **Outils** | Git · Postman · Trello · Figma · UML · Merise |
 
 ---
 
