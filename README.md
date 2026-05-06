@@ -12,8 +12,6 @@
 
 ## 🧬 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
 🎓 **CS Engineering Student** @ ENIAD Berkane — specialized in **Computer Engineering & AI**
 
 💻 **Full Stack Developer** — I build complete web & mobile apps from scratch, handling both frontend and backend
@@ -27,8 +25,6 @@
 🌱 **Always learning** — I believe in continuous growth and staying up to date with the latest tech
 
 🌍 Based in **Morocco** — Open to internships, collaborations & exciting projects
-
-<br clear="right"/>
 
 ---
 
@@ -58,7 +54,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -80,7 +76,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2)](https://skillicons.dev)
 
 </div>
 
@@ -124,29 +120,19 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&count_private=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
 
 </div>
 
----
-
-## 🤝 Connect with Me
-
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/riham-bouchiha-138419274/)
-&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/RihamBouchiha)
-&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rihambouchiha@ump.ac.ma)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RihamBouchiha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
