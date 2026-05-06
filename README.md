@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-🎓 **CS Engineering Student** @ ENIAD Berkane — specialized in software engineering & networks
+🎓 **CS Engineering Student** @ ENIAD Berkane — specialized in **Computer Engineering & AI**
 
 💻 **Full Stack Developer** — I build complete web & mobile apps from scratch, handling both frontend and backend
 
@@ -110,11 +110,11 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| 🌐 **Portfolio** | [bouchihariham1.vercel.app](https://bouchihariham1.vercel.app/) |
-| 💼 **LinkedIn** | [riham-bouchiha](https://www.linkedin.com/in/riham-bouchiha-138419274/) |
-| 📧 **Email** | [rihambouchiha@ump.ac.ma](mailto:rihambouchiha@ump.ac.ma) |
+🌐 **Portfolio** &nbsp;→&nbsp; [![Portfolio](https://img.shields.io/badge/bouchihariham1.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://bouchihariham1.vercel.app/)
+
+💼 **LinkedIn** &nbsp;→&nbsp; [![LinkedIn](https://img.shields.io/badge/Riham%20Bouchiha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riham-bouchiha-138419274/)
+
+📧 **Email** &nbsp;→&nbsp; [![Gmail](https://img.shields.io/badge/rihambouchiha@ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihambouchiha@ump.ac.ma)
 
 </div>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&dates=6E40C9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -154,7 +154,7 @@
 
 <div align="center">
 
-*✦ Turning coffee into code, one commit at a time ✦*
+*✨ She codes, she designs, she deploys — and she's just getting started ✨*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer"/>
 
