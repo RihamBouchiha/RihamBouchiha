@@ -14,6 +14,20 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
+🎓 **CS Engineering Student** @ ENIAD Berkane — specialized in software engineering & networks
+
+💻 **Full Stack Developer** — I build complete web & mobile apps from scratch, handling both frontend and backend
+
+🎨 **UI/UX Designer** — I care deeply about user experience and clean, modern interfaces using Figma
+
+🚀 **Future DevOps Engineer** — Currently mastering Docker, Kubernetes, Jenkins & CI/CD pipelines
+
+🤖 **AI Explorer** — Diving into Machine Learning, Deep Learning & Reinforcement Learning
+
+🌱 **Always learning** — I believe in continuous growth and staying up to date with the latest tech
+
+🌍 Based in **Morocco** — Open to internships, collaborations & exciting projects
+
 <br clear="right"/>
 
 ---
@@ -87,3 +101,61 @@
 ---
 
 ### 📡 Messaging & Networks
+
+> Kafka · RabbitMQ · TCP/IP · IPv4/IPv6 · OSI · DHCP · DNS
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 **Portfolio** | [bouchihariham1.vercel.app](https://bouchihariham1.vercel.app/) |
+| 💼 **LinkedIn** | [riham-bouchiha](https://www.linkedin.com/in/riham-bouchiha-138419274/) |
+| 📧 **Email** | [rihambouchiha@ump.ac.ma](mailto:rihambouchiha@ump.ac.ma) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RihamBouchiha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&dates=6E40C9)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/riham-bouchiha-138419274/)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/RihamBouchiha)
+&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rihambouchiha@ump.ac.ma)
+
+</div>
+
+---
+
+<div align="center">
+
+*✦ Turning coffee into code, one commit at a time ✦*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer"/>
+
+</div>
