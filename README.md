@@ -21,7 +21,7 @@
 - 🎓 En 5ᵉ année d'Ingénierie Informatique à l'**ENIAD** (École Nationale de l'Intelligence Artificielle et du Numérique), Berkane
 - 🛠️ Spécialisation **DevOps** & **AI / ML** — j'aime automatiser, déployer et faire tourner des modèles en prod
 - 🌍 Une expérience professionnelle en France (Strasbourg) qui m'a donné le goût du travail en équipe à l'international
-- 🗣️ Français, Arabe (Darija) et un peu d'Espagnol
+- 🗣️ Français, Arabe (Darija), Anglais et un peu d'Espagnol
 - 💬 Envie de parler DevOps, Cloud ou IA appliquée ? Mon inbox est ouverte
 
 ---
@@ -52,8 +52,8 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=E91E8C&icon_color=FF6FB5&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=radical&hide_border=true&title_color=E91E8C&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=E91E8C&icon_color=FF6FB5&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=radical&hide_border=true&title_color=E91E8C&text_color=ffffff" />
 </p>
 
 <p align="center">
