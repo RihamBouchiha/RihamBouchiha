@@ -94,10 +94,6 @@
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=radical&hide_border=true&title_color=E91E8C&text_color=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=RihamBouchiha&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ### 🐍 Animation "snake" (se transforme selon tes vrais commits)
