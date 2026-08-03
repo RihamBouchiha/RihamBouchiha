@@ -22,7 +22,7 @@
 - 🛠️ Spécialisation **DevOps** & **AI / ML** — j'aime automatiser, déployer et faire tourner des modèles en prod
 - 🌍 Une expérience professionnelle en France (Strasbourg) qui m'a donné le goût du travail en équipe à l'international
 - 🗣️ Français, Arabe (Darija), Anglais et un peu d'Espagnol
-- 💬 Envie de parler IA, DevOps ou Cloud ? Mon inbox est ouverte
+- 💬 Envie de parler IA, DevOps ou full stack ? Mon inbox est ouverte
 
 ---
 
