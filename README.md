@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Bannière animée (typing effect) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA8E5&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Riham+%F0%9F%91%8B;DevOps+%26+AI%2FML+Engineer;%C3%89tudiante+%C3%A0+l'ENIAD;En+recherche+de+PFE+MLOps%2FLLMOps+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Riham+%F0%9F%91%8B;DevOps+%26+AI%2FML+Engineer;%C3%89tudiante+%C3%A0+l'ENIAD+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Bannière de vagues -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA8E5,100:6C5CE7&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E8C,100:FF6FB5&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -21,7 +21,6 @@
 - 🎓 En 5ᵉ année d'Ingénierie Informatique à l'**ENIAD** (École Nationale de l'Intelligence Artificielle et du Numérique), Berkane
 - 🛠️ Spécialisation **DevOps** & **AI / ML** — j'aime automatiser, déployer et faire tourner des modèles en prod
 - 🌍 Une expérience professionnelle en France (Strasbourg) qui m'a donné le goût du travail en équipe à l'international
-- 🔭 En recherche active d'un **PFE** (stage de fin d'études) en **MLOps / LLMOps**
 - 🗣️ Français, Arabe (Darija) et un peu d'Espagnol
 - 💬 Envie de parler DevOps, Cloud ou IA appliquée ? Mon inbox est ouverte
 
@@ -30,20 +29,7 @@
 ### 🧰 Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,oracle,react,nextjs,figma,py,git,github,vercel&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,oracle,react,nextjs,figma,py,git,github,vercel&perline=6" />
 </p>
 
 ---
@@ -52,7 +38,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Travail%20d'équipe-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Résolution%20de%20problèmes-2EA8E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Résolution%20de%20problèmes-E91E8C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Communication-00B894?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Adaptabilité-E17055?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Autonomie-0984E3?style=for-the-badge" />
@@ -63,23 +49,15 @@
 
 ---
 
-### 📊 Statistiques GitHub (dynamiques — se mettent à jour automatiquement)
+### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=E91E8C&icon_color=FF6FB5&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=radical&hide_border=true&title_color=E91E8C&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RihamBouchiha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RihamBouchiha&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RihamBouchiha&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RihamBouchiha&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -90,53 +68,11 @@
   <img src="https://raw.githubusercontent.com/RihamBouchiha/RihamBouchiha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<details>
-<summary>⚙️ Comment activer cette animation (à faire une seule fois)</summary>
-
-1. Crée un repo spécial nommé **exactement** comme ton pseudo GitHub (ex: `RihamBouchiha/RihamBouchiha`), avec ce README à la racine.
-2. Dans ce repo, crée le fichier `.github/workflows/snake.yml` et colle ce contenu :
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # tous les jours à minuit
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake game from GitHub contribution grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Va dans **Settings → Actions → General → Workflow permissions** et coche **"Read and write permissions"**.
-4. Lance le workflow une première fois manuellement (onglet **Actions → Generate Snake Animation → Run workflow**).
-
-</details>
-
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2EA8E5&height=100&section=footer" />
+
+*"Le code, comme le talent, ne vaut que par la constance qu'on lui offre."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,100:E91E8C&height=100&section=footer" />
 </div>
