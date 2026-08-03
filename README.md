@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Bannière animée (typing effect) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA8E5&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Riham+%F0%9F%91%8B;DevOps+%26+AI%2FML+Engineer;Etudiante+en+Ing%C3%A9nierie+Informatique;Toujours+en+train+d'apprendre+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA8E5&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Riham+%F0%9F%91%8B;DevOps+%26+AI%2FML+Engineer;%C3%89tudiante+%C3%A0+l'ENIAD;En+recherche+de+PFE+MLOps%2FLLMOps+%E2%9A%A1" alt="Typing SVG" />
 
 <!-- Bannière de vagues -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA8E5,100:6C5CE7&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
@@ -18,12 +18,12 @@
 
 ### 👩‍💻 À propos de moi
 
-- 🎓 Étudiante en 5ᵉ année d'Ingénierie Informatique à l'**ENIAD** (École Nationale de l'Intelligence Artificielle et du Numérique), Berkane
-- 🛠️ Spécialisation **DevOps** & **AI / ML**
-- 🌍 Expérience professionnelle en France (Strasbourg)
-- 🔭 Actuellement en recherche d'un **PFE** (stage de fin d'études) en MLOps / LLMOps
-- 🗣️ Je parle **Français**, **Arabe (Darija)** et un peu **Espagnol**
-- 💬 Demandez-moi tout sur le DevOps, le Cloud ou l'IA appliquée
+- 🎓 En 5ᵉ année d'Ingénierie Informatique à l'**ENIAD** (École Nationale de l'Intelligence Artificielle et du Numérique), Berkane
+- 🛠️ Spécialisation **DevOps** & **AI / ML** — j'aime automatiser, déployer et faire tourner des modèles en prod
+- 🌍 Une expérience professionnelle en France (Strasbourg) qui m'a donné le goût du travail en équipe à l'international
+- 🔭 En recherche active d'un **PFE** (stage de fin d'études) en **MLOps / LLMOps**
+- 🗣️ Français, Arabe (Darija) et un peu d'Espagnol
+- 💬 Envie de parler DevOps, Cloud ou IA appliquée ? Mon inbox est ouverte
 
 ---
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Gestion%20du%20temps-D63031?style=for-the-badge" />
 </p>
 
-> ✏️ *Liste indicative — je n'ai pas pu extraire la section compétences de ton portfolio (elle se charge en JS derrière une animation d'intro), dis-moi les soft skills exacts que tu veux mettre et je les remplace.*
+> ✏️ *Liste indicative — dis-moi les soft skills exacts que tu veux mettre et je les remplace.*
 
 ---
 
@@ -90,7 +90,50 @@
   <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-> ⚙️ Cette image est générée par une GitHub Action (`snake.yml`, fournie séparément). Il faut l'activer une fois — voir instructions ci-dessous.
+<details>
+<summary>⚙️ Comment activer cette animation (à faire une seule fois)</summary>
+
+1. Crée un repo spécial nommé **exactement** comme ton pseudo GitHub (ex: `TON_USERNAME/TON_USERNAME`), avec ce README à la racine.
+2. Dans ce repo, crée le fichier `.github/workflows/snake.yml` et colle ce contenu :
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # tous les jours à minuit
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Va dans **Settings → Actions → General → Workflow permissions** et coche **"Read and write permissions"**.
+4. Lance le workflow une première fois manuellement (onglet **Actions → Generate Snake Animation → Run workflow**).
+
+</details>
 
 ---
 
