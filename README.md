@@ -66,20 +66,20 @@
 ### 📊 Statistiques GitHub (dynamiques — se mettent à jour automatiquement)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RihamBouchiha&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RihamBouchiha&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RihamBouchiha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -87,13 +87,13 @@
 ### 🐍 Animation "snake" (se transforme selon tes vrais commits)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RihamBouchiha/RihamBouchiha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <details>
 <summary>⚙️ Comment activer cette animation (à faire une seule fois)</summary>
 
-1. Crée un repo spécial nommé **exactement** comme ton pseudo GitHub (ex: `TON_USERNAME/TON_USERNAME`), avec ce README à la racine.
+1. Crée un repo spécial nommé **exactement** comme ton pseudo GitHub (ex: `RihamBouchiha/RihamBouchiha`), avec ce README à la racine.
 2. Dans ce repo, crée le fichier `.github/workflows/snake.yml` et colle ce contenu :
 
 ```yaml
