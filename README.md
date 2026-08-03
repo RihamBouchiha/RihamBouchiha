@@ -1,10 +1,35 @@
-<div align="center">
+from pathlib import Path
+import shutil
+import zipfile
 
-<img src="./assets/hero.svg" width="100%" alt="Riham Bouchiha — Software Engineering and Artificial Intelligence" />
+source_dir = Path("/mnt/data/riham-github-profile")
+fixed_dir = Path("/mnt/data/riham-github-profile-fixed")
+
+if fixed_dir.exists():
+    shutil.rmtree(fixed_dir)
+
+assets_dir = fixed_dir / "assets"
+assets_dir.mkdir(parents=True)
+
+# Copy only the reliable PNG assets.
+for name in ["hero.png", "stack-map.png", "signature.png"]:
+    shutil.copy2(source_dir / "assets" / name, assets_dir / name)
+
+readme = r'''<div align="center">
+
+<img src="./assets/hero.png" width="100%" alt="Riham Bouchiha — Software Engineering and Artificial Intelligence"/>
 
 <br/>
 
-[**PORTFOLIO**](https://www.rihambouchiha.com/) &nbsp;&nbsp;·&nbsp;&nbsp; [**LINKEDIN**](https://www.linkedin.com/in/rihambouchiha) &nbsp;&nbsp;·&nbsp;&nbsp; [**EMAIL**](mailto:rihambouchiha@ump.ac.ma)
+<a href="https://www.rihambouchiha.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-C95D7B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/rihambouchiha">
+  <img src="https://img.shields.io/badge/LINKEDIN-916D9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rihambouchiha@ump.ac.ma">
+  <img src="https://img.shields.io/badge/EMAIL-D39A4C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -14,7 +39,7 @@
 
 I am a **Computer Science Engineering student at ENIAD Berkane**, specialising in **Software Engineering and Artificial Intelligence**.
 
-I build complete web and mobile products, from the first interface idea to backend architecture, databases, APIs and deployment. I am especially interested in the point where **engineering quality, intelligent systems and user experience** come together.
+I enjoy creating complete digital products, from the first interface idea to backend architecture, databases, APIs and deployment. My profile brings together three complementary dimensions:
 
 <table>
 <tr>
@@ -22,7 +47,7 @@ I build complete web and mobile products, from the first interface idea to backe
 
 ### ENGINEERING
 
-Full-stack applications, clean architecture, APIs, databases and scalable systems.
+Full-stack applications, backend architecture, APIs, databases and scalable systems.
 
 </td>
 <td width="33%" valign="top">
@@ -36,7 +61,7 @@ Machine learning, deep learning, intelligent agents, RAG and useful automation.
 
 ### EXPERIENCE
 
-Clear interfaces, thoughtful interactions and modern UI/UX built around real users.
+Clear interfaces, thoughtful interactions and modern UI/UX designed around real users.
 
 </td>
 </tr>
@@ -48,15 +73,19 @@ Clear interfaces, thoughtful interactions and modern UI/UX built around real use
 
 ## Technical Universe
 
-<img src="./assets/stack-map.svg" width="100%" alt="Riham Bouchiha technical stack" />
+<img src="./assets/stack-map.png" width="100%" alt="Riham Bouchiha technical stack"/>
 
 <br/>
 
 ### Additional foundations
 
+<div align="center">
+
 `Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `Postman` · `Trello` · `UML` · `Merise`
 
 `TCP/IP` · `IPv4/IPv6` · `OSI Model` · `DHCP` · `DNS`
+
+</div>
 
 <br/>
 
@@ -89,7 +118,7 @@ Clear interfaces, thoughtful interactions and modern UI/UX built around real use
 
 <br/>
 
-## Beyond the Stack
+## What drives me
 
 I value **curiosity, clarity and continuous improvement**. Technology changes quickly, so I focus on understanding foundations, experimenting with new approaches and turning what I learn into something practical.
 
@@ -103,12 +132,57 @@ Based in **Morocco** and open to **PFE internships, collaborations and ambitious
 
 Great ideas often begin with a simple conversation.
 
-<br/>
+<br/><br/>
 
-[**Explore my portfolio**](https://www.rihambouchiha.com/) &nbsp;&nbsp;·&nbsp;&nbsp; [**Connect on LinkedIn**](https://www.linkedin.com/in/rihambouchiha) &nbsp;&nbsp;·&nbsp;&nbsp; [**Send an email**](mailto:rihambouchiha@ump.ac.ma)
+<a href="https://www.rihambouchiha.com/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-C95D7B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/rihambouchiha">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-916D9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rihambouchiha@ump.ac.ma">
+  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-D39A4C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
-<img src="./assets/signature.svg" width="100%" alt="She codes. She designs. She deploys. And she is only getting started." />
+<img src="./assets/signature.png" width="100%" alt="She codes. She designs. She deploys. And she is only getting started."/>
 
 </div>
+'''
+
+(fixed_dir / "README.md").write_text(readme, encoding="utf-8")
+
+instructions = """UPLOAD EXACTLY THIS STRUCTURE TO YOUR GITHUB PROFILE REPOSITORY:
+
+RihamBouchiha/
+├── README.md
+└── assets/
+    ├── hero.png
+    ├── stack-map.png
+    └── signature.png
+
+IMPORTANT:
+1. Upload the whole assets folder, not only README.md.
+2. Keep the folder name exactly: assets
+3. Keep all filenames lowercase.
+4. Place README.md and assets at the repository root.
+5. Delete the old SVG files if they are no longer used.
+"""
+(fixed_dir / "UPLOAD_INSTRUCTIONS.txt").write_text(instructions, encoding="utf-8")
+
+zip_path = Path("/mnt/data/RihamBouchiha-GitHub-Profile-FIXED.zip")
+if zip_path.exists():
+    zip_path.unlink()
+
+with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+    for file in fixed_dir.rglob("*"):
+        if file.is_file():
+            zf.write(file, file.relative_to(fixed_dir))
+
+print(f"Created corrected README: {fixed_dir / 'README.md'}")
+print(f"Created complete ZIP: {zip_path}")
+print("Files included:")
+for file in fixed_dir.rglob("*"):
+    if file.is_file():
+        print(" -", file.relative_to(fixed_dir))
