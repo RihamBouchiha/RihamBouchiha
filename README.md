@@ -28,8 +28,46 @@
 
 ### 🧰 Stack technique
 
+**Langages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,oracle,react,nextjs,figma,py,git,github,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,r&perline=9" />
+</p>
+
+**Frontend & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,spring,dotnet,bootstrap,tailwind&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+</p>
+
+**Bases de données**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**DevOps & Outils**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,rabbitmq,prometheus,grafana,nginx&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+</p>
+
+**AI / ML & Data**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ---
@@ -52,7 +90,7 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=E91E8C&icon_color=FF6FB5&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RihamBouchiha&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true&title_color=E91E8C&icon_color=FF6FB5&text_color=ffffff" />
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RihamBouchiha&layout=compact&theme=radical&hide_border=true&title_color=E91E8C&text_color=ffffff" />
 </p>
 
