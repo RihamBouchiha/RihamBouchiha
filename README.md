@@ -83,7 +83,6 @@
   <img src="https://img.shields.io/badge/Gestion%20du%20temps-D63031?style=for-the-badge" />
 </p>
 
-> ✏️ *Liste indicative — dis-moi les soft skills exacts que tu veux mettre et je les remplace.*
 
 ---
 
@@ -96,7 +95,6 @@
 
 ---
 
-### 🐍 Animation "snake" (se transforme selon tes vrais commits)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RihamBouchiha/RihamBouchiha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -106,7 +104,6 @@
 
 <div align="center">
 
-*"Le code, comme le talent, ne vaut que par la constance qu'on lui offre."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,100:E91E8C&height=100&section=footer" />
 </div>
